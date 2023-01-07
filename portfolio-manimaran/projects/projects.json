@@ -1,0 +1,64 @@
+[
+  
+  {
+    "name": "Shopcart E-shopping",
+    "desc": "Full-Stack single page application built using Angular and hibernate,springboot dataJPA,mysql provides the backend",
+    "image": "shopcart",
+    "category": "mern",
+    "links": {
+
+      "code": "https://github.com/Manimaran-Ramesh/practiceprojectjavafsd/tree/main/E-CommercewebApplication"
+    }
+  },
+  {
+    "name": "User Feedback application System",
+    "desc": "A Feedback application  that manages the feedback of all their users",
+    "image": "feedback",
+    "category": "mern",
+    "links": {
+
+      "code": "https://github.com/Manimaran-Ramesh/practiceprojectjavafsd/tree/main/User-Feedback-master/User-Feedback-master/src"
+    }
+  },
+  {
+    "name": "myAadhar",
+    "desc": " Full-Stack single page application where Citizens can apply for new aadhar,request for any changes and view aadhar info while admin can do CRUD operations",
+    "image": "aadhar",
+    "category": "mern",
+    "links": {
+     
+      "code": "https://github.com/Manimaran-Ramesh/practiceprojectjavafsd/tree/main/M-aaddhar-Applications--master"
+    }
+  },
+  {
+    "name": "Online Banking Website",
+    "desc": "Full-Stack project application which is used to manage all the transactions and transfers of money made by users.",
+    "image": "onlinebanking",
+    "category": "mern",
+    "links": {
+      
+      "code": "https://github.com/Venkateshprasadh/phase-1-PracticeProjects/tree/main/Phase-4%20Event%20Management%20App"
+    }
+  },
+  {
+    "name": "Restaurant's Portfolio",
+    "desc": "A Front End single page application built using angular ,showcase ming's Dinner Restaurant's Portfolio ",
+    "image": "restaurantportfolio",
+    "category": "lamp",
+    "links": {
+     
+      "code": "https://github.com/Manimaran-Ramesh/practiceprojectjavafsd/tree/main/Restaurant%20website/lesson1"
+    }
+  },
+ 
+  {
+    "name": "Airline Ticket Booking",
+    "desc": "An airline ticket booking back end application developed using mysql and jsp pages",
+    "image": "airlinebooking",
+    "category": "mern",
+    "links": {
+     
+      "code": "https://github.com/Manimaran-Ramesh/practiceprojectjavafsd/tree/main/Airlinebooking-Phase%202%20Project"
+    }
+  }
+]
